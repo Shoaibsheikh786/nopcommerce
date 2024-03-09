@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-09T14:48:18 IST" name="Default suite" finished-at="2024-03-09T14:48:25 IST" duration-ms="7583">
+    <groups>
+    </groups>
+    <test started-at="2024-03-09T14:48:18 IST" name="Default test" finished-at="2024-03-09T14:48:25 IST" duration-ms="7583">
+      <class name="com.nopcommercec.qa.test.IndexTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.nopcommercec.qa.test.IndexTest@71ed560f]" started-at="2024-03-09T14:48:18 IST" name="openBrowser" finished-at="2024-03-09T14:48:24 IST" duration-ms="6245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="beforTest()[pri:0, instance:com.nopcommercec.qa.test.IndexTest@71ed560f]" started-at="2024-03-09T14:48:24 IST" name="beforTest" finished-at="2024-03-09T14:48:24 IST" depends-on-methods="com.nopcommerce.qa.base.SetUp.openBrowser" duration-ms="67" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforTest -->
+        <test-method signature="test1()[pri:0, instance:com.nopcommercec.qa.test.IndexTest@71ed560f]" started-at="2024-03-09T14:48:24 IST" name="test1" finished-at="2024-03-09T14:48:25 IST" duration-ms="929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- com.nopcommercec.qa.test.IndexTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
